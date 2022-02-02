@@ -1,0 +1,31 @@
+@media screen and (max-width: 300px);
+h1 {
+  font-weight: bold;
+  background-color: rgb(56, 54, 54);
+  color: #fff;
+  padding: 1em;
+  border: 5px outset rgb(241, 162, 4);
+  font-style: italic;
+}
+h2 {
+  font-weight: bold;
+  background-color: rgb(29, 3, 70);
+  color: #fff;
+  padding: 1em;
+  border: 5px outset rgb(235, 11, 11);
+  font-style: italic;
+  position: sticky;
+}
+body {
+  background-color: wheat;
+  font-family: roboto;
+}
+div {
+  display: grid;
+  padding: 0.5em;
+  border: 1px outset rgb(12, 12, 12);
+}
+.container {
+  font-size: x-large;
+  font-size: x-small;
+}
